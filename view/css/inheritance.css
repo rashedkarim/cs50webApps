@@ -2,7 +2,6 @@
   font-family: sans-serif;
   font-size: 18px;
   font-weight: bold;
-  border: 1px solid gray;
   padding: 20px;
   margin: 20px;
 }
@@ -13,8 +12,8 @@
 }
 
 .failure {
-  background-color: lightgrey;
-  border: 1px solid darkgray;
+  background-color: lightblue;
+  border: 1px solid darkblue;
 }
 
 .error {

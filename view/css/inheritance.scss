@@ -13,8 +13,8 @@
 }
 .failure {
     @extend %message;
-    background-color: lightgrey;
-    border: 1px solid darkgray;
+    background-color: lightblue;
+    border: 1px solid darkblue;
 }
 .error {
     @extend %message;
