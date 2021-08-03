@@ -2,21 +2,24 @@
   font-family: sans-serif;
   font-size: 18px;
   font-weight: bold;
-  border: 1px solid black;
+  border: 1px solid gray;
   padding: 20px;
   margin: 20px;
 }
 
 .success {
-  background-color: green;
+  background-color: lightgreen;
+  border: 1px solid darkgreen;
 }
 
 .failure {
-  background-color: gray;
+  background-color: lightgrey;
+  border: 1px solid darkgray;
 }
 
 .error {
-  background-color: red;
+  background-color: lightcoral;
+  border: 1px solid darkred;
 }
 
 /*# sourceMappingURL=inheritance.css.map */

@@ -9,13 +9,16 @@
 
 .success {
     @extend %message;
-    background-color: green;
+    background-color: lightgreen;
+    border: 1px solid darkgreen;
 }
 .failure {
     @extend %message;
-    background-color: gray;
+    background-color: lightgrey;
+    border: 1px solid darkgray;
 }
 .error {
     @extend %message;
-    background-color: red;
+    background-color: lightcoral;
+    border: 1px solid darkred;
 }
